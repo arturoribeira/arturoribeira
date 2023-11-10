@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-Olá! Sou Artur Oliveira, um apaixonado pela área de Garantia de Qualidade (QA) de Software. Com mais de 5 anos de experiência, tenho me dedicado para garantir a excelência na entrega de software e a satisfação do cliente.
+Olá! Sou Artur Oliveira, um apaixonado pela área de Garantia de Qualidade de Software. Com mais de 5 anos de experiência, tenho me dedicado para garantir a excelência na entrega de software e a satisfação do cliente.
 
 # 🚀 Expertise
 
