@@ -1,10 +1,10 @@
 # 👋 Hi there
 
-Olá! Me chamo Lucas Koritar, tenho 27 anos, sou QA e me aventuro com desenvolvimentos nas horas vagas. Atualmente trabalho como QA Software Engineering Specialist.
+Olá! Sou Artur Oliveira, um apaixonado pela área de Garantia de Qualidade (QA) de Software. Com mais de 5 anos de experiência, tenho me dedicado para garantir a excelência na entrega de software e a satisfação do cliente.
 
 # 🚀 Expertise
 
-Atuo na área de QA há 7 anos. Atuei em diversos clientes do setor financeiro e possuo amplo conhecimento em automação de testes de API, Frontend e Mobile. Além de possuir conhecimento em DevOps e Cloud.
+Atuo na área de qualidade de software há 5+ anos. Atuei em diversos clientes do setor financeiro e possuo conhecimento em testes de API, Frontend e Mobile.
 
 # Test Stacks
 ![Cucumber](https://img.shields.io/badge/-Cucumber-brightgreen?style=for-the-badge&logo=cucumber&logoColor=white)
